@@ -1,0 +1,4 @@
+.env
+.pyenv
+.ipynb_checkpoints/
+*.csv
